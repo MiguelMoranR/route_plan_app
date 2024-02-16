@@ -9,6 +9,9 @@ RoutePlan es una aplicación que permite publicar el plan de ruta para los vehí
 Aplicaciones similares:
 
 •	Routing Reparto
+
 •	AntsRoute
+
 •	Work&Track Mobile
+
 •	Rumbo
