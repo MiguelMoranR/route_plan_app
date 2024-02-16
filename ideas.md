@@ -16,6 +16,7 @@ Aplicaciones similares:
 
 •	Rumbo
 
+
 Idea 2: Recicle
 
 Recicle es una aplicación que permite publicar los avances de un plan de reciclaje en determinado sector, localidad y propiedad horizontal, a través de una interfaz de usuario amigable. La aplicación traerá sus datos ingresados por los participantes como resultado del cumplimientos a los compromisos adquiridos en los diferentes comités ambientales concertados con las autoridades locales responsables de este proceso.
