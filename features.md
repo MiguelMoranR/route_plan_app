@@ -7,7 +7,7 @@ Funcionalidades de la aplicación:
 Funcionalidades de usuario:
 
   1. Route Plan, facilita al usuario la consulta de los diferentes recorridos que debe cumplir durante un determinado tiempo.
-  2. Notificar el inicio del recorrido que se cumplirá y reportar la notificación a los responsables de supervisar su cumplimiento.
+  2. Notificar el inicio del recorrido que se cumplirá a los responsables de supervisar su cumplimiento.
   3. Durante el recorrido el usuario podrá reportar novedades que se presenten al cumplir el itinerario programado.
   4. En cualquier momento puede recibir asistencia remota, para solucionar dudas, novedades y demás aspectos de importancia y que
      puden cambiar la rutina programada.
