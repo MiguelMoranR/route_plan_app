@@ -8,14 +8,10 @@ RoutePlan es una aplicación que permite publicar el plan de ruta para los vehí
 
 Aplicaciones similares:
 
-•	Routing Reparto
-
-•	AntsRoute
-
-•	Work&Track Mobile
-
-•	Rumbo
-
+  •	Routing Reparto
+  •	AntsRoute
+  •	Work&Track Mobile
+  •	Rumbo
 
 Idea 2: Recicle
 
@@ -23,18 +19,10 @@ Recicle es una aplicación que permite publicar los avances de un plan de recicl
 
 Aplicaciones similares:
 
-•	A.I.R-E Asistente Inteligente de Reciclaje.
-
-•	Cleanspot.
-
-•	Recicla y suma.
-
-•	ReciclaYa.
-
-•	Recycle Coach.
-
-•	Aprendamos a Reciclar.
-
-•	Recycle.
-
-
+  •	A.I.R-E Asistente Inteligente de Reciclaje.
+  • Cleanspot.
+  •	Recicla y suma.
+  •	ReciclaYa.
+  •	Recycle Coach.
+  •	Aprendamos a Reciclar.
+  •	Recycle.
