@@ -18,7 +18,7 @@ Aplicaciones similares:
 
 Idea 2: Recicle
 
-Recicle es una aplicación que permite publicar los avances de un plan de reciclaje en determinado sector, localidad y propiedad horizontal, a través de una interfaz de usuario amigable. La aplicación traerá sus datos ingresados por los participantes como resultado del cumplimientos a los compromisos adquiridos en los diferentes comités ambientales concertados con las autoridades locales responsables de este proceso.
+Recicle es una aplicación que permite publicar los avances de un plan de reciclaje en determinado sector, localidad y propiedad horizontal, a través de una interfaz de usuario amigable. La aplicación traerá sus datos ingresados por los participantes como resultado del cumplimientos a los compromisos adquiridos en los diferentes comités ambientales concertados con las autoridades locales responsables de este proceso. Se ingresa al sistema el peso en kg. del material reciclable entregado a los responsables de recolección, esto permite registrar el cumplimientos a los compromisos y beneficios por contribuir al mejoramiento de las condiciones ambientales actuales.
 
 Aplicaciones similares:
 
