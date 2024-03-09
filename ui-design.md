@@ -27,7 +27,10 @@ pantallas:
    
 ![image](https://github.com/MiguelMoranR/route_plan_app/assets/117240237/1619bb09-15a0-4372-b195-04031672c26d)
 
+5. Paleta de colores azul.
+
    
+![image](https://github.com/MiguelMoranR/route_plan_app/assets/117240237/2f1a3429-ee09-49aa-9bea-fdf6069c3efd)
 
 
 
