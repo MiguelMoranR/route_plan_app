@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     Route_plan_appTheme {
-        Greeting("Android")
+        Greeting("Aplicación ruta de transporte")
     }
 }
