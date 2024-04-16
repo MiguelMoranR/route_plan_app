@@ -42,13 +42,23 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun GreetingImage(message: String, ingreso: String, modifier: Modifier = Modifier) {
-    val image = painterResource(R.drawable.fondo_app)
+    val image = painterResource(R.drawable.fondo_app);
+    val image1 = painterResource(R.drawable.logo_route_app);
 
         Image(
             painter = image,
+           //// painter = images, CONTINUAR
             contentDescription = null,
             contentScale = ContentScale.Crop,
             alpha = 0.5F
+        )
+
+        Image(
+            painter = image1,
+            //// painter = images, CONTINUAR
+            contentDescription = null,
+            //contentScale = ContentScale.Crop,
+            //alpha = 0.5F
         )
 
     Column(
