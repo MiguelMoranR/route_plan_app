@@ -40,6 +40,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun GreetingImage(message: String, ingreso: String, modifier: Modifier = Modifier) {
     val image = painterResource(R.drawable.fondo_app);
