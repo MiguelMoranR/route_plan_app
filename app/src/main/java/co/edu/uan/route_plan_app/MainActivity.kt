@@ -43,41 +43,41 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun GreetingImage(message: String, ingreso: String, modifier: Modifier = Modifier) {
-    val image = painterResource(R.drawable.fondo_app);
+    //val image = painterResource(R.drawable.fondo_app);
     val image1 = painterResource(R.drawable.logo_route_app);
 
-        Image(
-            painter = image,
+       // Image(
+          //  painter = image,
             //painter = image, CONTINUAR
-            contentDescription = null,
-            contentScale = ContentScale.Crop,
-            alpha = 0.5F
-        )
+        //    contentDescription = null,
+        //    contentScale = ContentScale.Crop,
+        //    alpha = 0.5F
+    //    )
 
         Image(
             painter = image1,
             //// painter = images, CONTINUAR
             contentDescription = null,
             //contentScale = ContentScale.Crop,
-            //alpha = 0.5F
+            alpha = 0.5F
         )
 
     Column(
-        verticalArrangement = Arrangement.Center,
+        //verticalArrangement = Arrangement.Center,
         modifier = modifier
     ) {
         Text(
         text = message,
         fontSize = 40.sp,
         modifier = Modifier
-            .padding(16.dp)
+            .padding(10.dp)
             .align(alignment = Alignment.CenterHorizontally)
     )
     Text(
         text = ingreso,
         fontSize = 30.sp,
         modifier = Modifier
-            .padding(16.dp)
+            .padding(10.dp)
             .align(alignment = Alignment.CenterHorizontally)
 
         )
